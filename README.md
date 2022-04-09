@@ -1,6 +1,6 @@
 # Meu-Repo-Minha-Vida
 
-##Deixar um pouco de minha história aqui...
+## Deixar um pouco de minha história aqui...
 
 <p>Hi Folks!</p>
 <p>My name is Luiz Jr, or just "Luiz/Louis".</p>
@@ -19,7 +19,6 @@
 <p>Proprietary System:</p>
 
 - IBM Urbancode Deploy. 
-
 
 <p>I like to teach and create documentation whenever possible. I have experience with Scrum techniques, and I managed to get my certification as a Scrum Master.</p>
 
