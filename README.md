@@ -1,6 +1,6 @@
-# Meu-Repo-Minha-Vida
+# My-Repo-My-Life
 
-## Deixar um pouco de minha história aqui...
+## Leave a little bit of my story here...
 
 <p>Hi Folks!</p>
 <p>My name is Luiz Jr, or just "Luiz/Louis".</p>
